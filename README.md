@@ -55,6 +55,6 @@ Want to add a new vendor or update existing information? Here's how you can cont
 
 We'll review your contribution and merge it if everything looks good. Thank you for helping make conferences more eco-friendly! 🌱
 
-## License
+## Licensegt i
 
 Licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) 
